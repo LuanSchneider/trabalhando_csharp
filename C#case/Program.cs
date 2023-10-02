@@ -5,7 +5,7 @@ namespace consoleApp
 {
     class program
     {
-        static Main(string[] args)
+        static void Main(string[] args)
         {
             int numero = 10;
             int numero_2 = 5;
