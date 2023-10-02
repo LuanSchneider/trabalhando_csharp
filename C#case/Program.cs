@@ -1,11 +1,17 @@
-﻿using System;
+﻿
+ using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Runtime.InteropServices;
+using System.Threading.Tasks;
+
 
 namespace consoleApp
 {
     class program
     {
-        static Main(string[] args)
+        static void Main(string[] args)
         {
             int numero = 10;
             int numero_2 = 5;
