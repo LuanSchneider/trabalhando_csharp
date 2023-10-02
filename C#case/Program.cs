@@ -37,7 +37,7 @@ namespace helloword
         {
             Console.WriteLine("hello word");
             Console.WriteLine("meu nome é Luan Schneider");
-       
+            Console.ReadLine();
         }
     }
 }
