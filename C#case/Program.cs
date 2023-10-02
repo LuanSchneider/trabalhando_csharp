@@ -26,7 +26,16 @@ namespace consoleApp
 
         }
     }
-}*/
+}
+*/
 
-static void Main(string[] args);
-Console.WriteLine("hello word!!");
+namespace helloword
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hello word");
+        }
+    }
+}
