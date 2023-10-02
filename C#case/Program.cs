@@ -37,7 +37,10 @@ namespace helloword
         {
             Console.WriteLine("hello word");
             Console.WriteLine("meu nome é Luan Schneider");
+            int idade = 20;
+            Console.WriteLine("minha idade é"+idade); 
             Console.ReadLine();
+
         }
     }
 }
