@@ -36,6 +36,8 @@ namespace helloword
         static void Main(string[] args)
         {
             Console.WriteLine("hello word");
+            Console.WriteLine("meu nome é Luan Schneider");
+       
         }
     }
 }
