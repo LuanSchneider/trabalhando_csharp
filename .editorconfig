@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0210: Converter para instruções de alto-nível
+csharp_style_prefer_top_level_statements = true
